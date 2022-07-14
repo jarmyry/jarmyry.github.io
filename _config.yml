@@ -2,3 +2,7 @@ plugins:
     - jekyll-include-cache
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+logo: /assets/images/jarmythrone_pien.png
+title: "Jarmy"
+masthead_title: "Jalasjärven raskaan musiikin yhdistys ry"
+minimal_mistakes_skin: "dark"
