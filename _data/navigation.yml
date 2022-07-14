@@ -1,5 +1,5 @@
 main:
-  - title: "Liity"
-    url: /
-  - title: "Säännöt"
-    url: /saannot
+    - title: "Liity"
+      url: /
+    - title: "Säännöt"
+      url: /saannot
